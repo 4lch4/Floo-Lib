@@ -1,0 +1,35 @@
+{
+  "name": "@4lch4/floo-lib",
+  "version": "0.0.0",
+  "description": "An NPM library written in TypeScript for interacting with Floo-API from a Node.js project.",
+  "main": "dist/index.js",
+  "license": "MIT",
+  "repository": "git@github.com:4lch4/Floo-API.git",
+  "homepage": "https://docs.floo.cloud/Floo-Lib",
+  "packageManager": "pnpm@6.32.3",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "notifications",
+    "floo",
+    "koa",
+    "api",
+    "koa-router",
+    "koa-body",
+    "koa-helmet"
+  ],
+  "author": {
+    "name": "4lch4",
+    "email": "hey@4lch4.email",
+    "url": "https://4lch4.com"
+  },
+  "bugs": {
+    "url": "https://github.com/4lch4/Floo-Lib/issues"
+  },
+  "devDependencies": {
+    "@types/node": "^17.0.23",
+    "prettier": "^2.6.1",
+    "typescript": "^4.6.3"
+  }
+}
